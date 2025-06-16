@@ -7,5 +7,5 @@ Para cada vista un layout diferente...
 
 PD: Agreguen algunos componentes a cada vista que creen...
 
-Moises Gumbs Peralta
+
 Diplomado Mescyt
